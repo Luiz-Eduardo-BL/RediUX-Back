@@ -9,17 +9,17 @@ O RediUX é uma aplicação web que tem como objetivo simplificar o compartilham
 Este projeto foi desenvolvido por uma equipe multidisciplinar dedicada à criação de soluções educacionais eficientes e acessíveis:
 
 - **Orientadora do Projeto**:
-  - [Ingrid](link-para-o-perfil-do-desenvolvedor-5)
+  - [Ingrid Teixeira](https://www.linkedin.com/in/ingrid-teixeira-monteiro-47b68012)
 
 - **Designers**:
-  - [Beah](link-para-o-perfil-do-desenvolvedor-6)
+  - [Beatriz Vasconcelos](https://www.linkedin.com/in/beatrizvasconceloss)
   - [Weydla Alves](https://github.com/weydlaalves)
 
 - **Desenvolvedores**:
   - [Edoardo Nogueira](https://github.com/edoardonog)
-  - [Hugo](link-para-o-perfil-do-desenvolvedor-2)
+  - [Hugo Maciel](https://www.linkedin.com/in/hugo-maciel-coelho)
   - [Luiz Eduardo](https://github.com/Luiz-Eduardo-BL)
-  - [Jeff](link-para-o-perfil-do-desenvolvedor-4)
+  - [Jefferson Uchoa](https://www.linkedin.com/in/jefferson-uchoa-b264b3186)
 
 ## Guia de Commits
 
